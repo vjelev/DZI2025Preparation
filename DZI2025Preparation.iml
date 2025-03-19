@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/DZI_2023_05_23/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DZI_26_zad/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortingAlgs/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
